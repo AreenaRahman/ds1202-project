@@ -42,3 +42,215 @@ CPU Load and Uptime:
 Report generated at:
 Fri Oct 16 12:44:13 UTC 2026
 ==================================
+==================================
+       SYSTEM INFORMATION
+==================================
+
+Hostname:
+iib-as2
+
+Operating System:
+Ubuntu 26.04.1 LTS
+
+Kernel Version:
+7.0.0-31-generic
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           956Mi       244Mi       213Mi       4.2Mi       524Mi       712Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           192M  1.2M  191M   1% /run
+/dev/vda1        24G  3.1G   21G  14% /
+tmpfs           479M     0  479M   0% /dev/shm
+tmpfs           479M     0  479M   0% /tmp
+/dev/vda13      989M  143M  779M  16% /boot
+/dev/vda15      105M  6.3M   99M   7% /boot/efi
+none            1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none            1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+tmpfs            96M  8.0K   96M   1% /run/user/1028
+tmpfs            96M  8.0K   96M   1% /run/user/1022
+tmpfs            96M  8.0K   96M   1% /run/user/1015
+tmpfs            96M  8.0K   96M   1% /run/user/1023
+tmpfs            96M  8.0K   96M   1% /run/user/1007
+tmpfs            96M  8.0K   96M   1% /run/user/1005
+tmpfs            96M  8.0K   96M   1% /run/user/1010
+
+CPU Load and Uptime:
+ 13:03:34 up 27 days, 22:33, 11 users,  load average: 0.29, 0.18, 0.11
+
+Report generated at:
+Fri Oct 16 13:03:34 UTC 2026
+==================================
+==================================
+       SYSTEM INFORMATION
+==================================
+
+Hostname:
+iib-as2
+
+Operating System:
+Ubuntu 26.04.1 LTS
+
+Kernel Version:
+7.0.0-31-generic
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           956Mi       409Mi        66Mi       4.6Mi       506Mi       546Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           192M  1.5M  190M   1% /run
+/dev/vda1        24G  3.1G   20G  14% /
+tmpfs           479M     0  479M   0% /dev/shm
+tmpfs           479M     0  479M   0% /tmp
+/dev/vda13      989M  143M  779M  16% /boot
+/dev/vda15      105M  6.3M   99M   7% /boot/efi
+none            1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none            1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+tmpfs            96M  8.0K   96M   1% /run/user/1028
+tmpfs            96M  8.0K   96M   1% /run/user/1022
+tmpfs            96M  8.0K   96M   1% /run/user/1015
+tmpfs            96M  8.0K   96M   1% /run/user/1010
+tmpfs            96M  8.0K   96M   1% /run/user/1002
+tmpfs            96M  8.0K   96M   1% /run/user/1006
+tmpfs            96M  8.0K   96M   1% /run/user/1019
+tmpfs            96M  8.0K   96M   1% /run/user/1017
+tmpfs            96M  8.0K   96M   1% /run/user/1000
+tmpfs            96M  8.0K   96M   1% /run/user/1005
+tmpfs            96M  8.0K   96M   1% /run/user/1007
+tmpfs            96M  8.0K   96M   1% /run/user/1011
+tmpfs            96M  8.0K   96M   1% /run/user/1024
+tmpfs            96M  8.0K   96M   1% /run/user/1004
+tmpfs            96M  8.0K   96M   1% /run/user/1025
+tmpfs            96M  8.0K   96M   1% /run/user/1008
+tmpfs            96M  8.0K   96M   1% /run/user/1026
+tmpfs            96M  8.0K   96M   1% /run/user/1003
+tmpfs            96M  8.0K   96M   1% /run/user/1027
+
+CPU Load and Uptime:
+ 00:34:58 up 28 days, 10:05, 29 users,  load average: 0.21, 0.14, 0.10
+
+Report generated at:
+Sat Oct 17 00:34:58 UTC 2026
+==================================
+==================================
+       SYSTEM INFORMATION
+==================================
+
+Hostname:
+iib-as2
+
+Operating System:
+Ubuntu 26.04.1 LTS
+
+Kernel Version:
+7.0.0-31-generic
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           956Mi       437Mi        46Mi       4.6Mi       498Mi       518Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           192M  1.5M  190M   1% /run
+/dev/vda1        24G  3.1G   20G  14% /
+tmpfs           479M     0  479M   0% /dev/shm
+tmpfs           479M     0  479M   0% /tmp
+/dev/vda13      989M  143M  779M  16% /boot
+/dev/vda15      105M  6.3M   99M   7% /boot/efi
+none            1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none            1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+tmpfs            96M  8.0K   96M   1% /run/user/1028
+tmpfs            96M  8.0K   96M   1% /run/user/1022
+tmpfs            96M  8.0K   96M   1% /run/user/1015
+tmpfs            96M  8.0K   96M   1% /run/user/1010
+tmpfs            96M  8.0K   96M   1% /run/user/1002
+tmpfs            96M  8.0K   96M   1% /run/user/1017
+tmpfs            96M  8.0K   96M   1% /run/user/1024
+tmpfs            96M  8.0K   96M   1% /run/user/1025
+tmpfs            96M  8.0K   96M   1% /run/user/1008
+tmpfs            96M  8.0K   96M   1% /run/user/1026
+tmpfs            96M  8.0K   96M   1% /run/user/1023
+tmpfs            96M  8.0K   96M   1% /run/user/1021
+tmpfs            96M  8.0K   96M   1% /run/user/1013
+tmpfs            96M  8.0K   96M   1% /run/user/1014
+tmpfs            96M  8.0K   96M   1% /run/user/1018
+tmpfs            96M  8.0K   96M   1% /run/user/1006
+tmpfs            96M  8.0K   96M   1% /run/user/1029
+tmpfs            96M  8.0K   96M   1% /run/user/1012
+
+CPU Load and Uptime:
+ 01:24:40 up 28 days, 10:54, 38 users,  load average: 0.19, 0.15, 0.11
+
+Report generated at:
+Sat Oct 17 01:24:40 UTC 2026
+==================================
+==================================
+       SYSTEM INFORMATION
+==================================
+
+Hostname:
+iib-as2
+
+Operating System:
+Ubuntu 26.04.1 LTS
+
+Kernel Version:
+7.0.0-31-generic
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           956Mi       443Mi        40Mi       4.6Mi       499Mi       513Mi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           192M  1.5M  190M   1% /run
+/dev/vda1        24G  3.1G   20G  14% /
+tmpfs           479M     0  479M   0% /dev/shm
+tmpfs           479M     0  479M   0% /tmp
+/dev/vda13      989M  143M  779M  16% /boot
+/dev/vda15      105M  6.3M   99M   7% /boot/efi
+none            1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none            1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+tmpfs            96M  8.0K   96M   1% /run/user/1028
+tmpfs            96M  8.0K   96M   1% /run/user/1022
+tmpfs            96M  8.0K   96M   1% /run/user/1015
+tmpfs            96M  8.0K   96M   1% /run/user/1010
+tmpfs            96M  8.0K   96M   1% /run/user/1002
+tmpfs            96M  8.0K   96M   1% /run/user/1017
+tmpfs            96M  8.0K   96M   1% /run/user/1024
+tmpfs            96M  8.0K   96M   1% /run/user/1025
+tmpfs            96M  8.0K   96M   1% /run/user/1008
+tmpfs            96M  8.0K   96M   1% /run/user/1026
+tmpfs            96M  8.0K   96M   1% /run/user/1023
+tmpfs            96M  8.0K   96M   1% /run/user/1021
+tmpfs            96M  8.0K   96M   1% /run/user/1013
+tmpfs            96M  8.0K   96M   1% /run/user/1014
+tmpfs            96M  8.0K   96M   1% /run/user/1018
+tmpfs            96M  8.0K   96M   1% /run/user/1006
+
+CPU Load and Uptime:
+ 01:37:56 up 28 days, 11:07, 41 users,  load average: 0.10, 0.13, 0.10
+
+Report generated at:
+Sat Oct 17 01:37:56 UTC 2026
+==================================
